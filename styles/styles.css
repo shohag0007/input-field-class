@@ -1,0 +1,54 @@
+
+.inputDiv{
+    
+}
+
+.input1{
+    margin-bottom: 4px;
+    width: 300px;
+    height: 30px;
+   border: solid 3px;
+   border-color: blueviolet;
+
+   
+  
+}
+
+.input2{
+    width: 300px;
+    height: 30px;
+   border: solid 3px;
+   border-color: blueviolet;
+}
+
+.input3{
+    width: 300px;
+    height: 30px;
+   border: solid 3px;
+   border-color: blueviolet;
+}
+
+.input4{
+    width: 300px;
+    height: 30px;
+   border: solid 3px;
+   border-color: blueviolet;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    border: solid 3px;
+
+}
+
+.heading{
+    background-color: green;
+}
+
+.s1{
+    background-color: tomato;
+}
+
+.s2{
+    background-color: aquamarine;
+}
